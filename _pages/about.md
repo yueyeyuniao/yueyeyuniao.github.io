@@ -24,7 +24,7 @@ Interests
 * Visual Servoing
 * Robot Simulation
 * Task Automation
-* Human-Robot Collaboration.
+* Human-Robot Collaboration
 
 Education
 ------
