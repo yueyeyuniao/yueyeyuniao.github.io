@@ -1,0 +1,8 @@
+---
+title: "Contact Force Estimation for Valkyrie Robot in Different Applications"
+excerpt: "<img src='https://yueyeyuniao.github.io/pengchang.github.io/files/warningsystem.png' width='600'><br/><br/>To improve the safety, accuracy and reliability of a humanoid robot - NASA Valkyrie (R5) in completing manipulation tasks, the external contact force was estimated through the dynamic model of this robot. We demonstrated the capability of the force estimator when the task is to pick up a box by two arms under external force disturbances. Our approach results in estimated properties of the object being manipulated such as mass and stiffness, safety warning systems and robot actions being preseted, as well as stable motion control under external force disturbance."
+#excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+collection: portfolio
+---
+
+To improve the safety, accuracy and reliability of a humanoid robot - NASA Valkyrie (R5) in completing manipulation tasks, the external contact force was estimated through the dynamic model of this robot. We demonstrated the capability of the force estimator when the task is to pick up a box by two arms under external force disturbances. Our approach results in estimated properties of the object being manipulated such as mass and stiffness, safety warning systems and robot actions being preseted, as well as stable motion control under external force disturbance.
