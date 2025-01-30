@@ -1,6 +1,6 @@
 ---
 title: "NIST Task Board #3"
-excerpt: "<img src='https://github.com/yueyeyuniao/yueyeyuniao.github.io/blob/master/files/nist_blur.png' width='600'><br/><br/>Automatic manipulation of linear flexible objects is computationally expensive due to their infinite degrees of freedom in the free spaces. Manipulating such objects in a constrained space raises more challenges due to restricted robot motions.<br/><br/><video width='600' controls><source src='https://github.com/yueyeyuniao/yueyeyuniao.github.io/blob/master/files/nist.mp4' type='video/mp4'> Your browser does not support the video tag.</video><br/><br/>[[publication](https://ieeexplore.ieee.org/abstract/document/9926677)][[code](https://github.com/yueyeyuniao/NIST_Cable_Threading)]"
+excerpt: "<img src='https://yueyeyuniao.github.io/files/nist_blur.png' width='600'><br/><br/>Automatic manipulation of linear flexible objects is computationally expensive due to their infinite degrees of freedom in the free spaces. Manipulating such objects in a constrained space raises more challenges due to restricted robot motions.<br/><br/><video width='600' controls><source src='https://yueyeyuniao.github.io/files/nist.mp4' type='video/mp4'> Your browser does not support the video tag.</video><br/><br/>[[publication](https://ieeexplore.ieee.org/abstract/document/9926677)][[code](https://github.com/yueyeyuniao/NIST_Cable_Threading)]"
 collection: portfolio
 ---
 
