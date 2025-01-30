@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
 venue: "Northeastern University"
-date: 2016-2021
+date: 2021-01-01
 location: "Boston, USA"
 ---
 
