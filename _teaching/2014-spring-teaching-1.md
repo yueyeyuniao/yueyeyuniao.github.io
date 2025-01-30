@@ -1,20 +1,24 @@
 ---
-title: "Teaching experience 1"
+title: "EECE 2160 Embedded Design Enabling Robotics"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Northeastern University"
+#date: 2014-01-01
+location: "Boston, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+The course explores scripting languages, high-level programming, Unix/Linux operating systems, device drivers, software-hardware interfaces, hardware controllers, and digital circuit design. C++, Verilog, and MATLAB are required for this course.
 
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+(1) c/c++ programming, array, linked list, OOP
+(2) gdb debugger
+(3) control leds using gpios/ switches/ buttons /OOP
+(4) control the Willmote with USB bluetooth adapter using shell script 
+(5) calculator/ counter/ PWM signal design using Simulink
+(6) control a robotic arm with designed PWM signal/ read button to change
+the pwm and control the servos
+(7) interact with a robotic arm with gpio, generated pwm, and multi-threading
+(8) control a speaker with verilog
+(9) control a 7-segment display with truth table/ logic design/ OOP
+(10) snake ladder game design with UI and tone generation with speaker
+(11) a piano design with a keypad, a speaker, leds, and a 7-segment display
