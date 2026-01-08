@@ -17,8 +17,12 @@ Education
 
 Work experience
 ======
-* Senior Software Engineer, AI Perception
-  * September 2021 - Present
+* CTO
+  * August 2025 - Present
+  * Yeloworld, Shanghai
+
+* Tech Lead, AI Perception
+  * September 2021 - August 2025
   * Black Sesame Technologies Inc, San Jose, CA
 
 * Robotics Engineer & Researcher
